@@ -1,0 +1,6 @@
+WELFake_Dataset.csv.zip
+cleaned_data.csv
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
