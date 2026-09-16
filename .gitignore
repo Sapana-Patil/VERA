@@ -4,3 +4,8 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 venv/
+*.pkl
+vera_model/
+vera_tokenizer/
+node_modules/
+dist/
